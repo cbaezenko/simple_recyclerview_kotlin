@@ -1,2 +1,2 @@
-# simple_recyclerview_java
-This is an example about how to create a simple recycler view in JAVA for Android.
+# simple_recyclerview_kotlin
+This is an example about how to create a simple recycler view in Kotlin for Android.
